@@ -4,7 +4,7 @@ const qs = require("qs");
 const path = require("path");
 const app = express();
 
-const port = process.env.PORT || token-microservice.herokuapp.com;
+const port = process.env.PORT || 3000;
 
 
 app.use(function (req, res, next) {
